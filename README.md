@@ -1,4 +1,4 @@
 # Toboolist:
--New Task
--Today
--Upcoming
+- New Task
+- Today
+- Upcoming
