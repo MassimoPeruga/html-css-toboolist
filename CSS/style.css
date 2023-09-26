@@ -1,0 +1,10 @@
+*{
+    font-family: 'Roboto', sans-serif;
+}
+#Logo{
+    vertical-align: middle;
+}
+h1{
+    display: inline-block;
+    vertical-align: middle;
+}
