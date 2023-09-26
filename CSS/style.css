@@ -111,6 +111,14 @@ ul {
     background-color: #ff9b00;
 }
 
+.Website {
+    background-color: #ec4a9d;
+}
+
+.Sales {
+    background-color: #a3d116;
+}
+
 li {
     margin-bottom: 20px;
 }
@@ -141,4 +149,12 @@ li {
     color: red;
     font-weight: bolder;
     font-size: 10px;
+}
+
+#Upcoming {
+    margin-bottom: 0;
+}
+
+#last-element {
+    margin-bottom: 0;
 }
